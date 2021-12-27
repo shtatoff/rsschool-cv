@@ -1,4 +1,4 @@
-![avatar](https://i.ibb.co/y43YZJ1/z-Nl7-PMB3xzc.jpg)
+![avatar](https://i.ibb.co/xXtL6R7/znl7pmb3xzc-1-9jryi.jpg)  
 # Kirill Shtatov
 * *Contacts:*
 *  *Discord:Kirill(@shtatoff)*
