@@ -6,9 +6,9 @@
 ###  Personal information:
 I am graduating from RSREU and want to become a front-end developer
 * ### Skills
-  * Html basics
-  * Css basics
-  * Git basics
+  **Html basics*
+  **Css basics*
+  **Git basics*
 ### Code examples:
 In developing 
 ### Experience:
