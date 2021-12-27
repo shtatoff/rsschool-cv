@@ -1,1 +1,1 @@
-https://github.com/shtatoff/rsschool-cv/cv
+https://shtatoff.github.io/rsschool-cv/cv
