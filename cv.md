@@ -1,4 +1,4 @@
-![avatar](https://ibb.co/Y0ry1GM)
+![avatar](https://i.ibb.co/y43YZJ1/z-Nl7-PMB3xzc.jpg)
 # Kirill Shtatov
 * *Contacts:*
 *  *Discord:Kirill(@shtatoff)*
@@ -6,9 +6,9 @@
 ###  Personal information:
 I am graduating from RSREU and want to become a front-end developer
 * ### Skills
-  *Html basics
-  *Css basics
-  *Git basics
+  * Html basics
+  * Css basics
+  * Git basics
 ### Code examples:
 In developing 
 ### Experience:
