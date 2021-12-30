@@ -1,0 +1,74 @@
+.container {
+  width: 100%;
+  max-width: 1024px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+body{
+  color: rgb(29, 22, 22);
+  background-color: #b0b7c6  ;
+
+}
+header{
+  width: auto;
+    height: 340px
+}
+.avatar
+{
+  width: 25%
+}
+.name{
+  text-align: left;
+  font-weight: bold;
+  font-size: 64px;
+  position: relative;
+  left: 256px;
+  bottom: 360px;
+  background-color: #c0c0c0;
+  width: 75%;
+  color: #4b4d4b;
+}
+aside{
+  width: 25%;
+}
+.globalInfo{
+  text-align: left;
+    text-transform: uppercase;
+    color: #4b4d4b;
+    background-color: #c0c0c0;
+    font-weight: bold;
+    font-size: 32px;
+}
+.info{
+  text-align: left;
+  color: #6e6e6e;
+  font-size: 20px;
+  font-family: serif;
+}
+
+main{width: 75%;
+    position: relative;
+    left: 256px;
+    bottom: 645px
+}
+.profile{
+  text-align: left;
+  color: #6e6e6e;
+  font-size: 24px;
+}
+.code{
+  position: relative;
+  top: 136px;
+}
+.exp{
+  position: relative;
+    top: 158px;
+}
+.skill{
+  position: relative;
+  top: 240px
+}
+footer{
+  position: relative;
+  top: 250px
+}
